@@ -537,6 +537,7 @@ describe('ChatPanel — Sessions', () => {
   it.each([
     ['History Expanded', 'historyExpanded', false],
     ['Confirm Before Closing Session', 'confirmCloseSession', true],
+    ['Open sidebar sessions in a new tab', 'sidebarClickOpensTab', true],
   ])('stores %s locally when flipped', async (label, key, expected) => {
     wrap('sessions')
     fireEvent.click(await screen.findByRole('switch', { name: label }))

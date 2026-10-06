@@ -6851,6 +6851,8 @@
         "default_auto": "Default (auto)",
         "double_click_to_edit": "Double-click to edit your messages",
         "double_click_to_edit_desc": "When off, a double-click on your message selects a word as in any text.",
+        "sidebar_click_opens_tab": "Open sidebar sessions in a new tab",
+        "sidebar_click_opens_tab_desc": "Clicking a session opens it in its own tab instead of replacing the session in the active tab.",
         "failed_to_save_selectable_models": "Failed to save selectable models",
         "model_picker_all_models": "All models ({{count}})",
         "model_picker_selected_models": "Selected {{selected}} / {{total}}",

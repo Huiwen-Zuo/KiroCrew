@@ -15193,6 +15193,8 @@
         "show_thinking_inline": "थिंकिंग इनलाइन दिखाएँ",
         "show_timestamps": "टाइमस्टैम्प दिखाएँ",
         "show_token_usage": "कॉन्टेक्स्ट टोकन दिखाएँ",
+        "sidebar_click_opens_tab": "साइडबार सेशन नए टैब में खोलो",
+        "sidebar_click_opens_tab_desc": "सेशन पर क्लिक करने से वह सक्रिय टैब का सेशन बदलने के बजाय अपने टैब में खुलता है।",
         "simplified_tool_call_names": "सरलीकृत टूल कॉल नाम",
         "single_line": "एक पंक्ति",
         "spellcheck_input": "मैसेज इनपुट में वर्तनी जाँच",

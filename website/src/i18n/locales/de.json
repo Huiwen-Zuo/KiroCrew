@@ -15193,6 +15193,8 @@
         "show_thinking_inline": "Denkprozess inline anzeigen",
         "show_timestamps": "Zeitstempel anzeigen",
         "show_token_usage": "Kontext-Token anzeigen",
+        "sidebar_click_opens_tab": "Sitzungen aus der Seitenleiste in einem neuen Tab öffnen",
+        "sidebar_click_opens_tab_desc": "Ein Klick auf eine Sitzung öffnet sie in einem eigenen Tab, statt die Sitzung im aktiven Tab zu ersetzen.",
         "simplified_tool_call_names": "Vereinfachte Werkzeugaufrufnamen",
         "single_line": "Einzeilig",
         "spellcheck_input": "Nachrichteneingabe auf Rechtschreibung prüfen",
